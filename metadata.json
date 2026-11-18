@@ -1,0 +1,6 @@
+{
+  "name": "VisionGuide AI",
+  "description": "Mobile-first AI visual assistant providing real-time spoken safety and navigation guidance for blind and visually impaired users.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
